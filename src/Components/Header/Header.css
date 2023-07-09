@@ -1,0 +1,60 @@
+.header{
+    margin: 0 1.5rem;
+    padding: 0.8rem 0;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.header-link{
+    text-decoration: none;
+    color:rgb(252, 212, 35);
+    font-size: 1rem;
+    font-weight: 500;
+    font-family: fantasy;
+    
+}
+.header-link h1{
+    font-size: 2rem;
+    font-weight: 400;
+    font-family: fantasy;
+    padding: 0 7px; 
+    
+}
+
+.header-link h1:hover{
+    font-weight: 500;
+    background-color:rgb(252, 212, 35);
+   
+    color: white;
+}
+.header .active{
+  color:rgb(252, 212, 35); 
+  background-color: rgb(66, 66, 65);
+}
+.header_icon {
+    width: 80px;
+    cursor: pointer;
+    margin-right: 0.8rem;
+}
+
+.headerLeft, .headerRight {
+    display: flex;
+    align-items: center;
+
+}
+.link{
+    text-decoration: none;
+    padding: 0.3rem 0; 
+    border-radius: 10px;
+}
+a span{ 
+ margin: 0 1.2rem;
+ font-size: 21px;
+ cursor: pointer;
+ }
+a span:hover{
+    color:rgb(252, 212, 35);
+}
+.user__avatar {
+    font-size: 2rem;
+}

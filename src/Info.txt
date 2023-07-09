@@ -1,0 +1,7 @@
+i have used react router dom 
+anf TMDB API Link 
+backdrop path mention in TMDB Api Doc
+
+responsive carousel
+
+react-loading-skeleton
